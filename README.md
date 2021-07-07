@@ -17,7 +17,7 @@ Click on the **Use this template** green button at the top right
 
 ### Using degit
 
-`npx degit amoutonbrady/solid-snowpack-starter new-dir`
+`https://github.com/hasbimsdd27/solid-snowpack-tailwind-js`
 
 ## Configure
 
